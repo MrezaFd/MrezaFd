@@ -4,7 +4,7 @@ I'm Muhammad AL Reza Fd and you can call me reza :)
 - 🌱 I’m currently learning about python,SQL for data analyst
 
 ### If You Want To See My Visualization You Can Click This Logo : 
-<a href="https://www.linkedin.com/in/mrezafd/" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+<a href="https://public.tableau.com/app/profile/mrezafd" target="_blank"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
 
 ### Reach Me Out At:
 <p>
